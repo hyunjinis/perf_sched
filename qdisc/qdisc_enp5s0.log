@@ -1,0 +1,567 @@
+1756437580
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5074521382 bytes 69074331 pkt (dropped 0, overlimits 0 requeues 3) 
+ backlog 0b 0p requeues 3
+  flows 1045 (inactive 1041 throttled 0)
+  gc 0 highprio 101 throttled 134759 latency 21.2us
+----
+1756437585
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5086552279 bytes 69256034 pkt (dropped 0, overlimits 0 requeues 3) 
+ backlog 0b 0p requeues 3
+  flows 1045 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134775 latency 11.5us
+----
+1756437590
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5101536537 bytes 69482809 pkt (dropped 0, overlimits 0 requeues 3) 
+ backlog 0b 0p requeues 3
+  flows 1045 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134779 latency 9.38us
+----
+1756437595
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5116354759 bytes 69707045 pkt (dropped 0, overlimits 0 requeues 3) 
+ backlog 0b 0p requeues 3
+  flows 1045 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134792 latency 8.56us
+----
+1756437600
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5131254076 bytes 69932533 pkt (dropped 0, overlimits 0 requeues 3) 
+ backlog 66b 0p requeues 3
+  flows 1045 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134795 latency 10.1us
+----
+1756437605
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5146116908 bytes 70157489 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1045 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134799 latency 9.71us
+----
+1756437610
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5160975664 bytes 70382359 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1045 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134802 latency 9.08us
+----
+1756437615
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5163976299 bytes 70427611 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1045 (inactive 1043 throttled 0)
+  gc 0 highprio 101 throttled 134806 latency 17.8us
+----
+1756437620
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5163992498 bytes 70427652 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1045 (inactive 1043 throttled 0)
+  gc 0 highprio 101 throttled 134811 latency 32.6us
+----
+1756437625
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5175736467 bytes 70605045 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134829 latency 10.4us
+----
+1756437630
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5190584014 bytes 70829756 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134839 latency 11us
+----
+1756437635
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5204744245 bytes 71044050 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134851 latency 10.8us
+----
+1756437640
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5218958267 bytes 71259159 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134857 latency 8.61us
+----
+1756437645
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5233150209 bytes 71473950 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134862 latency 8.19us
+----
+1756437650
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5247332051 bytes 71688581 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134866 latency 9us
+----
+1756437655
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5250464335 bytes 71735834 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134872 latency 16.3us
+----
+1756437660
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5250479454 bytes 71735870 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1043 throttled 0)
+  gc 0 highprio 101 throttled 134875 latency 19.7us
+----
+1756437665
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5259818543 bytes 71876981 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134879 latency 15.9us
+----
+1756437670
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5273090946 bytes 72077881 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134884 latency 13.1us
+----
+1756437675
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5286355058 bytes 72278630 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134888 latency 10.4us
+----
+1756437680
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5299642932 bytes 72479711 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134893 latency 9.44us
+----
+1756437685
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5312936881 bytes 72680833 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134899 latency 9.12us
+----
+1756437690
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5326213100 bytes 72881875 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134901 latency 9.54us
+----
+1756437695
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5329339581 bytes 72928959 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1044 throttled 0)
+  gc 0 highprio 101 throttled 134907 latency 11us
+----
+1756437700
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5329346578 bytes 72928973 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1046 (inactive 1043 throttled 0)
+  gc 0 highprio 101 throttled 134908 latency 11.2us
+----
+1756437705
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5337025788 bytes 73044509 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1047 (inactive 1046 throttled 0)
+  gc 0 highprio 101 throttled 134919 latency 12.4us
+----
+1756437710
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5346409503 bytes 73186574 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1047 (inactive 1046 throttled 0)
+  gc 0 highprio 101 throttled 134920 latency 12.3us
+----
+1756437715
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5355823997 bytes 73328598 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134931 latency 10.2us
+----
+1756437720
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5365190731 bytes 73470404 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134932 latency 10.4us
+----
+1756437725
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5374572190 bytes 73612349 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134938 latency 9.81us
+----
+1756437730
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5383970725 bytes 73754563 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134944 latency 8.79us
+----
+1756437735
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5386314447 bytes 73789958 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134947 latency 9.81us
+----
+1756437740
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5386335602 bytes 73789999 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 134954 latency 14.6us
+----
+1756437745
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5396964303 bytes 73950585 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134970 latency 6.24us
+----
+1756437750
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5411111967 bytes 74164641 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134979 latency 7.14us
+----
+1756437755
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5424363292 bytes 74365285 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134988 latency 9.53us
+----
+1756437760
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5436923368 bytes 74555303 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134997 latency 8.07us
+----
+1756437765
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5446286284 bytes 74697062 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 134999 latency 8.72us
+----
+1756437770
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5455660908 bytes 74838485 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 135015 latency 9.55us
+----
+1756437775
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5458140216 bytes 74875936 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1046 throttled 0)
+  gc 0 highprio 101 throttled 135017 latency 14.5us
+----
+1756437780
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5458159968 bytes 74875972 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1048 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 135021 latency 17.2us
+----
+1756437785
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5465476096 bytes 74986476 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135025 latency 16us
+----
+1756437790
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5474866573 bytes 75128497 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135031 latency 12.5us
+----
+1756437795
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5484238564 bytes 75270349 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135035 latency 11.8us
+----
+1756437800
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5493615112 bytes 75412158 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135040 latency 11us
+----
+1756437805
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5502908895 bytes 75552855 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135043 latency 11.1us
+----
+1756437810
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5512204530 bytes 75693112 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135055 latency 9.12us
+----
+1756437815
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5514809004 bytes 75732451 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 135057 latency 14.1us
+----
+1756437820
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5514827973 bytes 75732481 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135062 latency 17us
+----
+1756437825
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5525355174 bytes 75891577 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135077 latency 12.5us
+----
+1756437830
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5539914607 bytes 76111949 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135082 latency 11.9us
+----
+1756437835
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5553114129 bytes 76311723 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135088 latency 11.6us
+----
+1756437840
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5566123237 bytes 76508611 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135093 latency 11.1us
+----
+1756437845
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5578795021 bytes 76700369 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135096 latency 9.45us
+----
+1756437850
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5591125875 bytes 76886980 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135100 latency 10.2us
+----
+1756437855
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5594614392 bytes 76939628 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1047 throttled 0)
+  gc 0 highprio 101 throttled 135103 latency 11.5us
+----
+1756437860
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5594628665 bytes 76939655 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1045 throttled 0)
+  gc 0 highprio 101 throttled 135106 latency 16.6us
+----
+1756437865
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5603902233 bytes 77079694 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135110 latency 15.7us
+----
+1756437870
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5617023149 bytes 77278287 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1049 (inactive 1048 throttled 0)
+  gc 0 highprio 101 throttled 135117 latency 14us
+----
+1756437875
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5629476131 bytes 77466747 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1050 (inactive 1049 throttled 0)
+  gc 0 highprio 101 throttled 135120 latency 14.6us
+----
+1756437880
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5641775938 bytes 77652701 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1050 (inactive 1049 throttled 0)
+  gc 0 highprio 101 throttled 135129 latency 12.6us
+----
+1756437885
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5653606077 bytes 77831739 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1050 (inactive 1049 throttled 0)
+  gc 0 highprio 101 throttled 135133 latency 11.8us
+----
+1756437890
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5665363597 bytes 78009665 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1050 (inactive 1049 throttled 0)
+  gc 0 highprio 101 throttled 135138 latency 10.7us
+----
+1756437895
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5668971546 bytes 78064127 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1050 (inactive 1049 throttled 0)
+  gc 0 highprio 101 throttled 135141 latency 15.1us
+----
+1756437900
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5668986587 bytes 78064158 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1050 (inactive 1046 throttled 0)
+  gc 0 highprio 101 throttled 135145 latency 13.6us
+----
+1756437905
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5678750256 bytes 78211530 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135163 latency 11.6us
+----
+1756437910
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5692777499 bytes 78423822 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135173 latency 9.45us
+----
+1756437915
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5705806753 bytes 78621029 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135181 latency 8.61us
+----
+1756437920
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5718302129 bytes 78810141 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135185 latency 8.48us
+----
+1756437925
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5730299492 bytes 78991707 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135190 latency 6.86us
+----
+1756437930
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5742175604 bytes 79171459 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135194 latency 7.4us
+----
+1756437935
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5746009405 bytes 79229348 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135197 latency 20.3us
+----
+1756437940
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5746023557 bytes 79229375 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1052 (inactive 1050 throttled 0)
+  gc 0 highprio 101 throttled 135201 latency 18.2us
+----
+1756437945
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5755860286 bytes 79377976 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1052 throttled 0)
+  gc 0 highprio 101 throttled 135220 latency 8.43us
+----
+1756437950
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5770704966 bytes 79602588 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1052 throttled 0)
+  gc 0 highprio 101 throttled 135230 latency 8.3us
+----
+1756437955
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5783764601 bytes 79800330 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1052 throttled 0)
+  gc 0 highprio 101 throttled 135237 latency 10us
+----
+1756437960
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5796224351 bytes 79988875 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1052 throttled 0)
+  gc 0 highprio 101 throttled 135242 latency 8.56us
+----
+1756437965
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5808203414 bytes 80170156 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1052 throttled 0)
+  gc 0 highprio 101 throttled 135246 latency 9.87us
+----
+1756437970
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5819942374 bytes 80347803 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1052 throttled 0)
+  gc 0 highprio 101 throttled 135250 latency 9.76us
+----
+1756437975
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5824017432 bytes 80409339 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1051 throttled 0)
+  gc 0 highprio 101 throttled 135253 latency 10.8us
+----
+1756437980
+qdisc fq 0: root refcnt 2 limit 10000p flow_limit 100p buckets 1024 orphan_mask 1023 quantum 3028b initial_quantum 15140b low_rate_threshold 550Kbit refill_delay 40ms timer_slack 10us horizon 10s horizon_drop 
+ Sent 5824026555 bytes 80409362 pkt (dropped 0, overlimits 0 requeues 4) 
+ backlog 0b 0p requeues 4
+  flows 1053 (inactive 1049 throttled 0)
+  gc 0 highprio 101 throttled 135255 latency 15us
+----

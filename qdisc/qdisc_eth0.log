@@ -1,0 +1,410 @@
+1756437579
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 535856983888 bytes 365399720 pkt (dropped 51259, overlimits 0 requeues 2223) 
+ backlog 0b 0p requeues 2223
+----
+1756437584
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 536219997267 bytes 365639584 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437589
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 536833275331 bytes 366044700 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437594
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 537445764538 bytes 366449297 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437599
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 538059341152 bytes 366854584 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437604
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 538672650653 bytes 367259690 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437609
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 539285704551 bytes 367664621 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437614
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 539532314425 bytes 367827546 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437619
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 539532315658 bytes 367827554 pkt (dropped 51810, overlimits 0 requeues 2241) 
+ backlog 0b 0p requeues 2241
+----
+1756437624
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 539891644757 bytes 368064980 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437629
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 540504775323 bytes 368469985 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437634
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 541117076286 bytes 368874449 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437639
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 541730595291 bytes 369279686 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437644
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 542344306469 bytes 369685055 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437649
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 542958069060 bytes 370090460 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437654
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 543207001755 bytes 370254914 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437659
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 543207002951 bytes 370254923 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437664
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 543484955956 bytes 370454683 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437669
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 544026371295 bytes 370842348 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437674
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 544568207841 bytes 371230037 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437679
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 545109946495 bytes 371617519 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437684
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 545656868289 bytes 372008717 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437689
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 546199266034 bytes 372396731 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437694
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 546418002789 bytes 372553219 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437699
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 546418003716 bytes 372553224 pkt (dropped 52299, overlimits 0 requeues 2254) 
+ backlog 0b 0p requeues 2254
+----
+1756437704
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 546662096117 bytes 372726345 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437709
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 547042988932 bytes 373003188 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437714
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 547424229703 bytes 373280180 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437719
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 547804355480 bytes 373556495 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437724
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 548184867592 bytes 373832928 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437729
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 548566541700 bytes 374110230 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437734
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 548723350946 bytes 374224168 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437739
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 548723351570 bytes 374224176 pkt (dropped 52352, overlimits 0 requeues 2262) 
+ backlog 0b 0p requeues 2262
+----
+1756437744
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 549077177465 bytes 374457971 pkt (dropped 52781, overlimits 0 requeues 2272) 
+ backlog 0b 0p requeues 2272
+----
+1756437750
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 549683814029 bytes 374860557 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437755
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 550225545199 bytes 375248300 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437760
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 550759798541 bytes 375631179 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437765
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 551138316426 bytes 375906291 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437770
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 551516289215 bytes 376180975 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437775
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 551673680950 bytes 376295340 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437780
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 551673681780 bytes 376295350 pkt (dropped 52781, overlimits 0 requeues 2273) 
+ backlog 0b 0p requeues 2273
+----
+1756437785
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 551912070272 bytes 376464297 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437790
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 552292575100 bytes 376740775 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437795
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 552672838265 bytes 377017121 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437800
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 553052866931 bytes 377293288 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437805
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 553428895486 bytes 377566495 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437810
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 553804493733 bytes 377839369 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437815
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 553963115518 bytes 377954590 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437820
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 553963116123 bytes 377954597 pkt (dropped 52923, overlimits 0 requeues 2278) 
+ backlog 0b 0p requeues 2278
+----
+1756437825
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 554307460055 bytes 378182129 pkt (dropped 53353, overlimits 0 requeues 2289) 
+ backlog 0b 0p requeues 2289
+----
+1756437830
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 554911452779 bytes 378583887 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437835
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 555450353637 bytes 378969704 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437840
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 555979497530 bytes 379348867 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437845
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 556495245896 bytes 379718151 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437850
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 556997584868 bytes 380077718 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437855
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 557202381401 bytes 380224557 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437860
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 557202381991 bytes 380224565 pkt (dropped 53353, overlimits 0 requeues 2295) 
+ backlog 0b 0p requeues 2295
+----
+1756437865
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 557507671669 bytes 380439321 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437870
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 558046001224 bytes 380824701 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437875
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 558554529091 bytes 381188909 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437880
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 559054635485 bytes 381547031 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437885
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 559530535934 bytes 381888343 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437890
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 560011705161 bytes 382233561 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437895
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 560209731498 bytes 382375845 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437900
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 560209732151 bytes 382375853 pkt (dropped 53636, overlimits 0 requeues 2308) 
+ backlog 0b 0p requeues 2308
+----
+1756437905
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 560550929717 bytes 382601307 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437910
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 561149204665 bytes 383001582 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437915
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 561684654840 bytes 383383745 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437920
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 562194113289 bytes 383748033 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437925
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 562688907156 bytes 384102436 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437930
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 563169015376 bytes 384446560 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437935
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 563375692711 bytes 384594679 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437940
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 563375693365 bytes 384594688 pkt (dropped 54076, overlimits 0 requeues 2320) 
+ backlog 0b 0p requeues 2320
+----
+1756437945
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 563714938674 bytes 384818854 pkt (dropped 54487, overlimits 0 requeues 2336) 
+ backlog 0b 0p requeues 2336
+----
+1756437950
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 564328589477 bytes 385224199 pkt (dropped 54487, overlimits 0 requeues 2336) 
+ backlog 0b 0p requeues 2336
+----
+1756437955
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 564863408317 bytes 385606161 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----
+1756437960
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 565368563156 bytes 385967935 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----
+1756437965
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 565851949435 bytes 386314413 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----
+1756437970
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 566330114127 bytes 386657158 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----
+1756437975
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 566539072253 bytes 386806874 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----
+1756437980
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 566539073467 bytes 386806884 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----
+1756437985
+qdisc pfifo_fast 0: root refcnt 2 bands 3 priomap 1 2 2 2 1 2 0 0 1 1 1 1 1 1 1 1
+ Sent 566539075649 bytes 386806900 pkt (dropped 54487, overlimits 0 requeues 2337) 
+ backlog 0b 0p requeues 2337
+----

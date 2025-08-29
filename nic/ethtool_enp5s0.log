@@ -1,0 +1,1296 @@
+1756439062
+NIC statistics:
+     tx_packets: 92971242
+     rx_packets: 180718558
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 180604318
+     broadcast: 100415
+     multicast: 13825
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439067
+NIC statistics:
+     tx_packets: 93166436
+     rx_packets: 181097955
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 180983712
+     broadcast: 100418
+     multicast: 13825
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439072
+NIC statistics:
+     tx_packets: 93393701
+     rx_packets: 181539001
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 181424756
+     broadcast: 100420
+     multicast: 13825
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439077
+NIC statistics:
+     tx_packets: 93608545
+     rx_packets: 181979929
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 181865681
+     broadcast: 100423
+     multicast: 13825
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439082
+NIC statistics:
+     tx_packets: 93823471
+     rx_packets: 182420889
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 182306639
+     broadcast: 100425
+     multicast: 13825
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439087
+NIC statistics:
+     tx_packets: 94038537
+     rx_packets: 182861836
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 182747578
+     broadcast: 100429
+     multicast: 13829
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439092
+NIC statistics:
+     tx_packets: 94251879
+     rx_packets: 183302841
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 183188576
+     broadcast: 100434
+     multicast: 13831
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439097
+NIC statistics:
+     tx_packets: 94282710
+     rx_packets: 183366306
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 183252039
+     broadcast: 100436
+     multicast: 13831
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439102
+NIC statistics:
+     tx_packets: 94282730
+     rx_packets: 183366332
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 183252061
+     broadcast: 100438
+     multicast: 13833
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439107
+NIC statistics:
+     tx_packets: 94410449
+     rx_packets: 183613234
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 183498957
+     broadcast: 100444
+     multicast: 13833
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439112
+NIC statistics:
+     tx_packets: 94552462
+     rx_packets: 183889439
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 183775158
+     broadcast: 100447
+     multicast: 13834
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439117
+NIC statistics:
+     tx_packets: 94694353
+     rx_packets: 184165554
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 184051259
+     broadcast: 100451
+     multicast: 13844
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439122
+NIC statistics:
+     tx_packets: 94836052
+     rx_packets: 184440817
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 184326509
+     broadcast: 100454
+     multicast: 13854
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439127
+NIC statistics:
+     tx_packets: 95002822
+     rx_packets: 184762280
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 184647968
+     broadcast: 100456
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439132
+NIC statistics:
+     tx_packets: 95203418
+     rx_packets: 185148245
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 185033932
+     broadcast: 100458
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439137
+NIC statistics:
+     tx_packets: 95235966
+     rx_packets: 185210856
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 185096530
+     broadcast: 100470
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439142
+NIC statistics:
+     tx_packets: 95235991
+     rx_packets: 185210886
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 185096553
+     broadcast: 100477
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439147
+NIC statistics:
+     tx_packets: 95413582
+     rx_packets: 185571056
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 185456720
+     broadcast: 100480
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439152
+NIC statistics:
+     tx_packets: 95628192
+     rx_packets: 186007573
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 185893234
+     broadcast: 100483
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439157
+NIC statistics:
+     tx_packets: 95829074
+     rx_packets: 186394391
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 186280050
+     broadcast: 100485
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439162
+NIC statistics:
+     tx_packets: 96029826
+     rx_packets: 186781245
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 186666901
+     broadcast: 100488
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439167
+NIC statistics:
+     tx_packets: 96229615
+     rx_packets: 187165570
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 187051223
+     broadcast: 100491
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439172
+NIC statistics:
+     tx_packets: 96426278
+     rx_packets: 187542360
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 187428007
+     broadcast: 100497
+     multicast: 13856
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439177
+NIC statistics:
+     tx_packets: 96461529
+     rx_packets: 187609964
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 187495587
+     broadcast: 100508
+     multicast: 13869
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439182
+NIC statistics:
+     tx_packets: 96461547
+     rx_packets: 187609989
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 187495607
+     broadcast: 100511
+     multicast: 13871
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439187
+NIC statistics:
+     tx_packets: 96609608
+     rx_packets: 187895582
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 187781197
+     broadcast: 100514
+     multicast: 13871
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439192
+NIC statistics:
+     tx_packets: 96809899
+     rx_packets: 188281373
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 188166984
+     broadcast: 100516
+     multicast: 13873
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439197
+NIC statistics:
+     tx_packets: 97007999
+     rx_packets: 188661885
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 188547487
+     broadcast: 100519
+     multicast: 13879
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439202
+NIC statistics:
+     tx_packets: 97202846
+     rx_packets: 189035066
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 188920666
+     broadcast: 100521
+     multicast: 13879
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439207
+NIC statistics:
+     tx_packets: 97392762
+     rx_packets: 189398144
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 189283735
+     broadcast: 100526
+     multicast: 13883
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439212
+NIC statistics:
+     tx_packets: 97578283
+     rx_packets: 189752431
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 189638017
+     broadcast: 100531
+     multicast: 13883
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439217
+NIC statistics:
+     tx_packets: 97614782
+     rx_packets: 189822066
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 189707644
+     broadcast: 100537
+     multicast: 13885
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439222
+NIC statistics:
+     tx_packets: 97614812
+     rx_packets: 189822102
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 189707678
+     broadcast: 100539
+     multicast: 13885
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439227
+NIC statistics:
+     tx_packets: 97792355
+     rx_packets: 190167391
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 190052963
+     broadcast: 100543
+     multicast: 13885
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439232
+NIC statistics:
+     tx_packets: 97999896
+     rx_packets: 190569223
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 190454784
+     broadcast: 100552
+     multicast: 13887
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439237
+NIC statistics:
+     tx_packets: 98193198
+     rx_packets: 190942193
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 190827748
+     broadcast: 100557
+     multicast: 13888
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439242
+NIC statistics:
+     tx_packets: 98382088
+     rx_packets: 191305141
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 191190692
+     broadcast: 100560
+     multicast: 13889
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439247
+NIC statistics:
+     tx_packets: 98564868
+     rx_packets: 191656838
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 191542387
+     broadcast: 100562
+     multicast: 13889
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439252
+NIC statistics:
+     tx_packets: 98744318
+     rx_packets: 192001679
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 191887218
+     broadcast: 100564
+     multicast: 13897
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439257
+NIC statistics:
+     tx_packets: 98782132
+     rx_packets: 192074424
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 191959960
+     broadcast: 100567
+     multicast: 13897
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439262
+NIC statistics:
+     tx_packets: 98782167
+     rx_packets: 192074473
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 191959994
+     broadcast: 100578
+     multicast: 13901
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439267
+NIC statistics:
+     tx_packets: 98890553
+     rx_packets: 192284911
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 192170429
+     broadcast: 100581
+     multicast: 13901
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439272
+NIC statistics:
+     tx_packets: 99057581
+     rx_packets: 192607672
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 192493185
+     broadcast: 100584
+     multicast: 13903
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439277
+NIC statistics:
+     tx_packets: 99249902
+     rx_packets: 192975149
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 192860660
+     broadcast: 100586
+     multicast: 13903
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439282
+NIC statistics:
+     tx_packets: 99437711
+     rx_packets: 193333726
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 193219235
+     broadcast: 100588
+     multicast: 13903
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439287
+NIC statistics:
+     tx_packets: 99620305
+     rx_packets: 193682843
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 193568348
+     broadcast: 100592
+     multicast: 13903
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439292
+NIC statistics:
+     tx_packets: 99796867
+     rx_packets: 194020499
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 193906002
+     broadcast: 100594
+     multicast: 13903
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439297
+NIC statistics:
+     tx_packets: 99837569
+     rx_packets: 194098294
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 193983787
+     broadcast: 100598
+     multicast: 13909
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439302
+NIC statistics:
+     tx_packets: 99837629
+     rx_packets: 194098352
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 193983840
+     broadcast: 100601
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439307
+NIC statistics:
+     tx_packets: 100007465
+     rx_packets: 194429178
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 194314664
+     broadcast: 100603
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439312
+NIC statistics:
+     tx_packets: 100232180
+     rx_packets: 194870230
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 194755713
+     broadcast: 100606
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439317
+NIC statistics:
+     tx_packets: 100457187
+     rx_packets: 195311184
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 195196664
+     broadcast: 100609
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439322
+NIC statistics:
+     tx_packets: 100681954
+     rx_packets: 195752160
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 195637635
+     broadcast: 100614
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439327
+NIC statistics:
+     tx_packets: 100907208
+     rx_packets: 196193180
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 196078652
+     broadcast: 100617
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439332
+NIC statistics:
+     tx_packets: 101131881
+     rx_packets: 196634154
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 196519624
+     broadcast: 100620
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439337
+NIC statistics:
+     tx_packets: 101188322
+     rx_packets: 196744775
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 196630241
+     broadcast: 100623
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439342
+NIC statistics:
+     tx_packets: 101188387
+     rx_packets: 196744839
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 196630300
+     broadcast: 100628
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439347
+NIC statistics:
+     tx_packets: 101354175
+     rx_packets: 197066939
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 196952396
+     broadcast: 100632
+     multicast: 13911
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439352
+NIC statistics:
+     tx_packets: 101575011
+     rx_packets: 197497665
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 197383115
+     broadcast: 100634
+     multicast: 13916
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439357
+NIC statistics:
+     tx_packets: 101774755
+     rx_packets: 197882571
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 197768012
+     broadcast: 100638
+     multicast: 13921
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439362
+NIC statistics:
+     tx_packets: 101970465
+     rx_packets: 198259801
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 198145238
+     broadcast: 100642
+     multicast: 13921
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439367
+NIC statistics:
+     tx_packets: 102161451
+     rx_packets: 198626815
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 198512245
+     broadcast: 100644
+     multicast: 13926
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439372
+NIC statistics:
+     tx_packets: 102346336
+     rx_packets: 198982348
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 198867762
+     broadcast: 100648
+     multicast: 13938
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439377
+NIC statistics:
+     tx_packets: 102394587
+     rx_packets: 199075142
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 198960545
+     broadcast: 100652
+     multicast: 13945
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439382
+NIC statistics:
+     tx_packets: 102394629
+     rx_packets: 199075189
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 198960588
+     broadcast: 100656
+     multicast: 13945
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439387
+NIC statistics:
+     tx_packets: 102504702
+     rx_packets: 199288158
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 199173552
+     broadcast: 100661
+     multicast: 13945
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439392
+NIC statistics:
+     tx_packets: 102645002
+     rx_packets: 199561245
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 199446630
+     broadcast: 100664
+     multicast: 13951
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439397
+NIC statistics:
+     tx_packets: 102784073
+     rx_packets: 199832129
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 199717508
+     broadcast: 100666
+     multicast: 13955
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439402
+NIC statistics:
+     tx_packets: 102920135
+     rx_packets: 200097587
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 199982961
+     broadcast: 100669
+     multicast: 13957
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439407
+NIC statistics:
+     tx_packets: 103054798
+     rx_packets: 200360537
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 200245905
+     broadcast: 100674
+     multicast: 13959
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439412
+NIC statistics:
+     tx_packets: 103186511
+     rx_packets: 200616639
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 200502003
+     broadcast: 100677
+     multicast: 13959
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439417
+NIC statistics:
+     tx_packets: 103223739
+     rx_packets: 200689250
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 200574610
+     broadcast: 100681
+     multicast: 13959
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439422
+NIC statistics:
+     tx_packets: 103223771
+     rx_packets: 200689288
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 200574645
+     broadcast: 100684
+     multicast: 13959
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439428
+NIC statistics:
+     tx_packets: 103376116
+     rx_packets: 200996520
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 200881876
+     broadcast: 100686
+     multicast: 13959
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439433
+NIC statistics:
+     tx_packets: 103589411
+     rx_packets: 201433192
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 201318541
+     broadcast: 100688
+     multicast: 13963
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439438
+NIC statistics:
+     tx_packets: 103787980
+     rx_packets: 201814306
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 201699646
+     broadcast: 100695
+     multicast: 13965
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439443
+NIC statistics:
+     tx_packets: 103976900
+     rx_packets: 202175152
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 202060490
+     broadcast: 100697
+     multicast: 13965
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439448
+NIC statistics:
+     tx_packets: 104156437
+     rx_packets: 202518524
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 202403856
+     broadcast: 100703
+     multicast: 13965
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439453
+NIC statistics:
+     tx_packets: 104332663
+     rx_packets: 202855812
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 202741141
+     broadcast: 100706
+     multicast: 13965
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439458
+NIC statistics:
+     tx_packets: 104385541
+     rx_packets: 202957064
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 202842391
+     broadcast: 100708
+     multicast: 13965
+     tx_aborted: 0
+     tx_underrun: 0
+----
+1756439463
+NIC statistics:
+     tx_packets: 104385569
+     rx_packets: 202957094
+     tx_errors: 0
+     rx_errors: 0
+     rx_missed: 0
+     align_errors: 0
+     tx_single_collisions: 0
+     tx_multi_collisions: 0
+     unicast: 202842418
+     broadcast: 100711
+     multicast: 13965
+     tx_aborted: 0
+     tx_underrun: 0
+----

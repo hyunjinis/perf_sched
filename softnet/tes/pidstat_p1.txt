@@ -1,0 +1,340 @@
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:35:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:02        0    273991    2.94   32.35    0.00    0.00   35.29     0  netperf
+
+12:35:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:03        0    273991    5.00   31.00    0.00    0.00   36.00     0  netperf
+
+12:35:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:04        0    273991    5.00   29.00    0.00    0.00   34.00     3  netperf
+
+12:35:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:05        0    273991    3.00   22.00    0.00    0.00   25.00     3  netperf
+
+12:35:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:06        0    273991    4.00   19.00    0.00    1.00   23.00     2  netperf
+
+12:35:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:07        0    273991    4.00   24.00    0.00    0.00   28.00     2  netperf
+
+12:35:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:08        0    273991    3.00   20.00    0.00    0.00   23.00     1  netperf
+
+12:35:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:09        0    273991    4.00   20.00    0.00    0.00   24.00     1  netperf
+
+12:35:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:10        0    273991    4.00   21.00    0.00    0.00   25.00     1  netperf
+
+12:35:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:11        0    273991    3.96   19.80    0.00    0.00   23.76     1  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    273991    3.89   23.83    0.00    0.10   27.72     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:35:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:42        0    274255    2.94   97.06    0.00    0.00  100.00     0  netperf
+
+12:35:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:43        0    274255    2.00   97.00    0.00    0.00   99.00     0  netperf
+
+12:35:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:44        0    274255    2.00   98.00    0.00    0.00  100.00     0  netperf
+
+12:35:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:45        0    274255    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:35:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:46        0    274255    2.00   97.00    0.00    0.00   99.00     0  netperf
+
+12:35:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:47        0    274255    3.00   98.00    0.00    1.00  101.00     0  netperf
+
+12:35:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:48        0    274255    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:35:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:49        0    274255    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:35:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:50        0    274255    3.00   96.00    0.00    0.00   99.00     0  netperf
+
+12:35:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:35:51        0    274255    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    274255    2.69   97.11    0.00    0.10   99.80     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:36:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:22        0    274518    1.96   97.06    0.00    0.00   99.02     0  netperf
+
+12:36:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:23        0    274518    2.00   98.00    0.00    0.00  100.00     0  netperf
+
+12:36:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:24        0    274518    3.00   98.00    0.00    0.00  101.00     0  netperf
+
+12:36:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:25        0    274518    2.00   97.00    0.00    0.00   99.00     0  netperf
+
+12:36:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:26        0    274518    2.00   98.00    0.00    0.00  100.00     0  netperf
+
+12:36:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:27        0    274518    3.00   97.00    0.00    1.00  100.00     0  netperf
+
+12:36:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:28        0    274518    3.00   96.00    0.00    0.00   99.00     0  netperf
+
+12:36:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:29        0    274518    4.00   97.00    0.00    0.00  101.00     0  netperf
+
+12:36:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:30        0    274518    2.00   98.00    0.00    0.00  100.00     0  netperf
+
+12:36:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:36:31        0    274518    4.00   96.00    0.00    0.00  100.00     0  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    274518    2.69   97.21    0.00    0.10   99.90     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:37:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:02        0    274778    3.96   28.71    0.00    0.99   32.67     3  netperf
+
+12:37:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:03        0    274778    4.00   20.00    0.00    0.00   24.00     3  netperf
+
+12:37:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:04        0    274778    3.00   20.00    0.00    0.00   23.00     3  netperf
+
+12:37:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:05        0    274778    5.00   21.00    0.00    0.00   26.00     0  netperf
+
+12:37:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:06        0    274778    3.00   24.00    0.00    0.00   27.00     3  netperf
+
+12:37:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:07        0    274778    4.00   21.00    0.00    0.00   25.00     3  netperf
+
+12:37:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:08        0    274778    1.98   28.71    0.00    0.00   30.69     3  netperf
+
+12:37:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:09        0    274778    4.00   19.00    0.00    0.00   23.00     3  netperf
+
+12:37:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:10        0    274778    4.00   25.00    0.00    0.00   29.00     0  netperf
+
+12:37:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:11        0    274778    4.00   29.00    0.00    1.00   33.00     2  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    274778    3.69   23.65    0.00    0.20   27.35     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:37:41      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:42        0    275028    3.92   21.57    0.00    0.00   25.49     1  netperf
+
+12:37:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:43        0    275028    4.00   20.00    0.00    0.00   24.00     1  netperf
+
+12:37:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:44        0    275028    4.00   20.00    0.00    0.00   24.00     1  netperf
+
+12:37:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:45        0    275028    4.00   23.00    0.00    0.00   27.00     1  netperf
+
+12:37:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:46        0    275028    4.00   20.00    0.00    0.00   24.00     1  netperf
+
+12:37:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:47        0    275028    4.00   22.00    0.00    0.00   26.00     1  netperf
+
+12:37:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:48        0    275028    4.00   21.00    0.00    0.00   25.00     1  netperf
+
+12:37:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:49        0    275028    3.00   20.00    0.00    0.00   23.00     3  netperf
+
+12:37:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:50        0    275028    4.00   20.00    0.00    0.00   24.00     3  netperf
+
+12:37:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:37:51        0    275028    4.00   21.00    0.00    1.00   25.00     1  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    275028    3.89   20.86    0.00    0.10   24.75     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:38:21      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:22        0    275284    1.96   97.06    0.00    0.00   99.02     0  netperf
+
+12:38:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:23        0    275284    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:38:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:24        0    275284    3.00   68.00    0.00    0.00   71.00     0  netperf
+
+12:38:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:25        0    275284    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:38:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:26        0    275284    2.00   98.00    0.00    0.00  100.00     0  netperf
+
+12:38:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:27        0    275284    3.00   96.00    0.00    1.00   99.00     0  netperf
+
+12:38:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:28        0    275284    4.00   97.00    0.00    0.00  101.00     0  netperf
+
+12:38:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:29        0    275284    3.00   96.00    0.00    0.00   99.00     0  netperf
+
+12:38:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:30        0    275284    4.00   97.00    0.00    0.00  101.00     0  netperf
+
+12:38:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:38:31        0    275284    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    275284    2.99   94.01    0.00    0.10   97.01     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:39:01      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:02        0    275543    3.92   25.49    0.00    0.98   29.41     1  netperf
+
+12:39:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:03        0    275543    5.00   30.00    0.00    0.00   35.00     0  netperf
+
+12:39:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:04        0    275543    5.00   26.00    0.00    0.00   31.00     0  netperf
+
+12:39:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:05        0    275543    4.00   25.00    0.00    0.00   29.00     3  netperf
+
+12:39:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:06        0    275543    3.00   25.00    0.00    0.00   28.00     1  netperf
+
+12:39:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:07        0    275543    3.00   47.00    0.00    0.00   50.00     1  netperf
+
+12:39:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:08        0    275543    4.00   96.00    0.00    0.00  100.00     1  netperf
+
+12:39:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:09        0    275543    2.00   97.00    0.00    1.00   99.00     1  netperf
+
+12:39:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:10        0    275543    4.00   97.00    0.00    0.00  101.00     1  netperf
+
+12:39:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:11        0    275543    3.00   97.00    0.00    0.00  100.00     1  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    275543    3.69   56.49    0.00    0.20   60.18     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:39:42      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:43        0    275803    3.92   19.61    0.00    0.00   23.53     3  netperf
+
+12:39:43      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:44        0    275803    4.00   27.00    0.00    1.00   31.00     0  netperf
+
+12:39:44      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:45        0    275803    4.00   22.00    0.00    0.00   26.00     0  netperf
+
+12:39:45      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:46        0    275803    4.00   25.00    0.00    0.00   29.00     2  netperf
+
+12:39:46      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:47        0    275803    3.00   21.00    0.00    0.00   24.00     2  netperf
+
+12:39:47      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:48        0    275803    3.00   21.00    0.00    0.00   24.00     2  netperf
+
+12:39:48      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:49        0    275803    3.00   63.00    0.00    0.00   66.00     2  netperf
+
+12:39:49      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:50        0    275803    4.00   96.00    0.00    0.00  100.00     1  netperf
+
+12:39:50      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:51        0    275803    2.00   97.00    0.00    0.00   99.00     1  netperf
+
+12:39:51      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:39:52        0    275803    4.00   96.00    0.00    0.00  100.00     1  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    275803    3.49   48.70    0.00    0.10   52.20     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:40:22      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:23        0    276065    2.94   28.43    0.00    0.00   31.37     0  netperf
+
+12:40:23      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:24        0    276065    4.00   23.00    0.00    0.00   27.00     3  netperf
+
+12:40:24      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:25        0    276065    3.00   22.00    0.00    0.00   25.00     3  netperf
+
+12:40:25      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:26        0    276065    4.00   20.00    0.00    0.00   24.00     3  netperf
+
+12:40:26      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:27        0    276065    4.00   20.00    0.00    0.00   24.00     3  netperf
+
+12:40:27      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:28        0    276065    4.00   20.00    0.00    1.00   24.00     1  netperf
+
+12:40:28      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:29        0    276065    4.00   19.00    0.00    0.00   23.00     3  netperf
+
+12:40:29      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:30        0    276065    5.00   22.00    0.00    0.00   27.00     2  netperf
+
+12:40:30      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:31        0    276065    4.00   20.00    0.00    0.00   24.00     2  netperf
+
+12:40:31      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:40:32        0    276065    4.95   22.77    0.00    0.00   27.72     1  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    276065    3.99   21.73    0.00    0.10   25.72     -  netperf
+Linux 6.8.0-1032-raspi (rpi2-desktop) 	08/29/25 	_aarch64_	(4 CPU)
+
+12:41:02      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:03        0    276323    3.92   31.37    0.00    0.98   35.29     0  netperf
+
+12:41:03      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:04        0    276323    3.00   37.00    0.00    0.00   40.00     0  netperf
+
+12:41:04      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:05        0    276323    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:41:05      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:06        0    276323    2.00   98.00    0.00    0.00  100.00     0  netperf
+
+12:41:06      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:07        0    276323    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:41:07      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:08        0    276323    2.00   97.00    0.00    0.00   99.00     0  netperf
+
+12:41:08      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:09        0    276323    3.00   98.00    0.00    0.00  101.00     0  netperf
+
+12:41:09      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:10        0    276323    3.00   96.00    0.00    1.00   99.00     0  netperf
+
+12:41:10      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:11        0    276323    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+12:41:11      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+12:41:12        0    276323    3.00   97.00    0.00    0.00  100.00     0  netperf
+
+Average:      UID       PID    %usr %system  %guest   %wait    %CPU   CPU  Command
+Average:        0    276323    2.89   84.43    0.00    0.20   87.33     -  netperf

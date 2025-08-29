@@ -1,0 +1,70 @@
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.03     936.19   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.00     586.68   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.00     583.25   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.03     936.27   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.03     936.24   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.00     583.20   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.00     838.75   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.00     829.40   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.03     936.20   
+MIGRATED TCP STREAM TEST from 0.0.0.0 (0.0.0.0) port 0 AF_INET to 192.168.0.139 () port 0 AF_INET : demo
+Recv   Send    Send                          
+Socket Socket  Message  Elapsed              
+Size   Size    Size     Time     Throughput  
+bytes  bytes   bytes    secs.    10^6bits/sec  
+
+ 87380  16384   1024    30.00     619.02   
